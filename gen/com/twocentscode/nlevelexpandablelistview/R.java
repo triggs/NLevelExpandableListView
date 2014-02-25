@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.expandable3;
+package com.twocentscode.nlevelexpandablelistview;
 
 public final class R {
     public static final class attr {

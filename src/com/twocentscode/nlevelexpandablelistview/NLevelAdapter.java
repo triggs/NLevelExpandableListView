@@ -1,4 +1,4 @@
-package com.twocentscode.nexpandable;
+package com.twocentscode.nlevelexpandablelistview;
 
 import java.util.ArrayList;
 import java.util.List;

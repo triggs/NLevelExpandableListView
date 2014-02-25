@@ -1,16 +1,13 @@
-package com.twocentscode.nexpandable;
+package com.twocentscode.nlevelexpandablelistview;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.example.expandable3.R;
-
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;

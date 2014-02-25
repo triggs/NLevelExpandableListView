@@ -1,4 +1,4 @@
-package com.twocentscode.nexpandable;
+package com.twocentscode.nlevelexpandablelistview;
 
 import android.view.View;
 
